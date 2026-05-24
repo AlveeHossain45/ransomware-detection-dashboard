@@ -7,9 +7,9 @@ export default function UserProfilePage() {
   const { addAlert } = useAlert()
   const [isEditing, setIsEditing] = useState(false)
   const [profile, setProfile] = useState({
-    name: 'Alex Chen',
+    name: 'Alvee Sami',
     role: 'Senior Security Analyst',
-    email: 'alex.chen@xairds.com',
+    email: 'alveesami.chen@xairds.com',
     phone: '+1 (555) 123-4567',
     location: 'San Francisco, CA',
     joinDate: 'January 2024',

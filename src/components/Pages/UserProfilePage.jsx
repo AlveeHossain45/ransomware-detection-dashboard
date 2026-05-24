@@ -11,7 +11,7 @@ export default function UserProfilePage() {
     role: 'Senior Security Analyst',
     email: 'alveesami.chen@xairds.com',
     phone: '+1 (555) 123-4567',
-    location: 'San Francisco, CA',
+    location: 'Dhaka, Bangladesh',
     joinDate: 'January 2024',
     badge: 'Certified Security Analyst',
     twoFactorEnabled: true,
